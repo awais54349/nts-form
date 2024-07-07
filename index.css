@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.maindiv{
+    height: 500px;
+    width: 960px;
+    background-color: aqua;
+    margin: 80px auto;
+    display: flex;
+   
+
+    
+}
+.sub_div1{
+    height: 500px;
+    width: 550px;
+    background-color: antiquewhite;
+    
+}
+.sub_div2{
+    height: 500px;
+    width: 410px;
+    background-color: gainsboro;
+    
+    
+    
+}
+.subdivchild1{
+    
+    width: 450px;
+   margin: 45px auto; 
+
+}
+.sub_div1 h3
+{
+    text-align: center;
+    color: red;
+   
+}
+.signup{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    margin-top: 10px;
+}
+.signupmain{
+    height: 900px;
+    width: 53%;
+    background-color: antiquewhite;
+    margin: 0% auto;
+}
+.name{
+    margin-top: 10px;
+}
+.slect{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.radio{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.cnic{
+    margin-left: 30px;
+}
+.note{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.mobile{
+    margin-left: 10px;
+    margin-top: 16px;
+}
+.note2{
+    margin-top: 3px;
+    margin-left: 10px;
+}
+.prefinal{
+    margin-left: 13px;
+    margin-top: 10px;
+}
